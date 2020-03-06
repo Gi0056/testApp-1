@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         let badGuy = "GI"
         print(badGuy)
         
+        //oreno hanasiwo kike.
+        
     }
 
 }
